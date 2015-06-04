@@ -1,1 +1,6 @@
-﻿###land parcels database
+﻿# Massachusetts Land Parcel Database, v. 1.1
+## Dataset Description
+The Massachusetts Land Parcel Database is a statewide atlas of more than 2.1 million land parcel boundaries and associated tax assessor data. Working from digital parcel and assessor records created and/or standardized by MassGIS (the Commonwealth’s Office of Geographic
+Information), MAPC compiled data previously available only on a town-by-town basis in each of the state’s 351 municipalities. In addition, we calculated additional statistics about each parcel, including floor area ratio, assessed value per area, impervious surface, and other indicators. This dataset is a unique resource for planners, researchers, advocates, and taxpayers interested in land use, urban form, development opportunities, and tax assessment across the state. We also hope that its availability and use will encourage municipalities to maintain and update their parcel boundary and assessment information and to submit those updates to MassGIS so that the dataset will remain current over time. 
+## ESRI tools and code
+This repo includes the necessary ESRI ModelBuilder and Toolbox used for running the process of assembling the dataset from a MassGIS Parcel level 3 input shapefile. The tool will go through input folder containing the town data, summarizes the information for each parcels, and then assembles the parcels into the state-wide mosaic. Additional information about the process is available in the ModelBuilder environment.
