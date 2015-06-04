@@ -1,0 +1,1127 @@
+TOWN_ID,USE_CODE,LUC_Assign,USE_DESC
+35,126,112,
+122,316,316,mixed use commercial warehouse
+40,0,0,Unknown
+67,0,0,Unknown (Added by MGIS)
+107,0,0,Unknown
+144,0,0,Unknown
+189,0,0,Unknown
+308,0,0,Unknown
+73,101,101,PR RES
+122,101,101,single family mixed use
+141,101,101,Single Family Residential
+208,101,101,"Single Family, Multi-Use"
+219,101,101,RESIDNTL
+220,101,101,Conventional
+252,101,101,Mixed use
+295,101,101,Single Family Residential
+307,101,101,One Family
+333,101,101,Single Family Residential
+335,101,101,Mixed use primarily Single Family Residential
+73,104,104,Two Family MDL-01
+122,104,104,"two family mixed use"
+208,104,104,Two Family
+220,104,104,Mixed Use Res
+252,104,104,Multiple use - two family
+295,104,104,Two-Family Residential
+307,104,104,Two Family
+335,104,104,Mixed use primarily Two-Family Residential
+73,105,105,THREE FAM
+220,105,105,Three Family
+307,105,105,3 Family
+119,108,71,Res - 61B
+208,109,109,Multi Hses
+220,109,101,Bungalow
+252,109,109,Multiple use - multiple houses
+307,109,109,Multi Hses
+2,010C,104,Two Family MDL
+57,010C,101,Single Fam  MDL-94
+122,010C,13,mixed use primary residential model 94
+57,010J,104,TWO FAMILY  MDL-94
+307,010J,104,Two Family M-94
+57,010L,104,TWO FAMILY  MDL-96
+317,11,0,Unknown
+73,111,111,APT 4-UNIT
+220,111,111,"Apartment, Old Style"
+252,111,111,Multiple use - four to eight apartments
+295,111,111,Apartments with Four to Eight Units
+307,111,111,Apts 4-Unit M-0
+73,112,112,APT OVER 8
+57,011C,111,APT 4-UNIT  MDL-94
+67,011C,111,APT 4-UNIT  MDL-94
+220,011C,31,Mixed Use Comm
+307,011C,111,Apts 4-Unit M-9
+307,011J,112,Apts Over 8 M-9
+220,011Z,31,Mixed Use Comm
+295,131,131,Potentially Developable Residential Land
+307,131,131,RES LAND PO
+163,134,134,"Mixed Use residential/commercial/industrial, primarily residential"
+25,137,137,"Has house, commercial retail store, and sits on Chapter Land"
+30,137,137,Multi-Conver
+71,137,137,Mixed Use- Town Code
+158,137,0,Unknown
+189,137,371,"Mixed Use (Primarily Commercial, some Agriculture)"
+269,137,137,Residential/Commercial/61A
+288,137,137,"Residential/Commercial/61A"
+30,138,138,"Residential, Commercial, Recreational"
+78,138,138,"Mixed use, primarily residential, secondary commercial and classified recreational use"
+269,138,138,Residential/Commercial/61B
+163,139,139,Mixed Use
+99,013C,0,Unknown
+187,013C,0,Unknown
+243,013C,13,PRI RES MDL-94
+99,013I,0,Unknown
+184,167,167,"Mixed use, residential and Chapter 61, 61B"
+269,167,167,Residential/chapter 61/chapter 61A
+288,173,173,Residential/61A/Commercial
+269,178,178,Residential/chapter 61A/chapter 61B
+78,179,179,"Mixed use, primarily residential, with classified agricultural/horticultural use and an exempt windmill"
+163,193,193,"Mixed Use residential/exempt/ commercial, primarily residential"
+30,23,23,OS / Commercial
+307,301,301,MOTELS
+295,305,305,Private Hospitals
+307,316,316,COMM  M-96
+177,317,317,"Mixed Use (Primarily Commercial, Residential, some Agricultureal Chapter)"
+208,317,317,Farm Buildings
+99,031C,0,Unknown
+99,031I,0,Unknown
+141,031I,31,"Mixed Use (Primarily Commercial, some Residential), table I"
+155,031I,31,PRI COMM MDL-96
+155,031R,31,PRI COMM MDL-01
+220,031R,31,Mixed Use Res
+320,031R,31,"Mixed Use, Primarily Commercial"
+122,322,322,mixed use  store/shop model 94
+219,322,322,COMMERC.
+252,322,32,Multiple use - discount stores
+295,322,322,"Discount Stores, Junior Department Stores, Department Stores"
+307,322,322,STORE/SHOP M-94
+73,325,325,STORE
+220,325,325,Store
+252,325,325,"Multiple use - retail less than 10,000 sq. ft"
+335,325,325,"Mixed use primarily Small Retail and Services stores (under 10,000 sq. ft.)"
+73,326,326,REST/CLUBS
+122,326,236,mixed use  restaurant/club
+252,326,326,Multiple use - eating or drinking establishments
+295,326,326,"Eating and Drinking Establishments - restaurants, diners, fast food establishments, bars, nightclubs"
+307,326,326,REST/CLUBS
+57,032I,322,STORE/SHOP  MDL-96
+307,032I,322,STORE/SHOP M-96
+57,032L,326,REST/CLUBS  MDL-96
+57,032R,322,STORE/SHOP  MDL-01
+307,032R,322,STORE/SHOP M-01
+307,331,331,AUTO S S&S
+252,332,332,Multiple use - auto repair facilities
+295,332,332,Auto Repair Facilities
+295,335,335,Car Wash Facilities
+122,342,342,"mixed use professional building"
+141,342,342,"Multiple Use, primarily office, table 2"
+252,342,342,Multiple use - medical office buildings
+307,342,342,PROF BLDG M-94
+185,346,346,"Commercial, Industrial, and Chapter 61B"
+307,034B,342,PROF BLDG M-01
+57,034I,340,OFFICE BLD  MDL-96
+57,034R,340,OFFICE BLD  MDL-01
+307,034R,340,OFFICE BLD M-01
+295,355,355,Funeral Homes
+307,355,355,FUNERAL HM
+335,355,355,Mixed use primarily Funeral Homes
+57,035I,355,FUNERAL HM  MDL-96
+252,361,361,Multiple use - art galleries
+252,364,364,Multiple use - theater
+269,381,381,Commercial/chapter 61B/Residential
+141,385,385,"Multiple Use, primarily recreational, table 5"
+208,385,385,Fish & Game
+174,386,386,"Mixed Use - 385 ? fish and game, 392 ? com udv lnd, 814 ? Chapter 61 B Recreational land target and range and 601 ? Chapter land 61 forestry"
+46,39,39,Mixed Use
+71,39,39,Commercial-Other
+100,39,39,Mixed Use Commercial/Exempt
+163,39,39,"Mixed Use commercial/exempt, primarily commercial"
+229,39,39,Mixed use - primarily commercial condo
+73,391,391,POT DEVEL
+163,391,391,"Mixed Use commercial/exempt/residential, primarily commercial"
+295,391,391,Potentially Developable Commercial Land
+163,394,394,"Mixed Use commercial/exempt/industrial, primarily commercial"
+122,401,401,mixed use industrial warehouse
+307,401,401,IND WHSES
+220,402,401,"Ind-Whse/Office"
+307,402,402,IND OFFICE
+99,041I,0,Unknown
+25,49,49,Cell phone tower on town-owned property
+185,49,94,"Owned by town, part leased to private radio station"
+288,713,713,61A/Residential/Commercial
+295,718,718,"Pasture (Ch. 61A, not classified as Open Space)"
+295,719,719,"Nurseries (Ch. 61A, not classified as Open Space)"
+269,783,783,Chapter 61A/chapter 61B/Commercial
+40,91,9,Unknown
+46,91,91,Mixed Use
+65,91,9,Unknown
+144,91,91,MOSTLY EXEMPT - PORTION TAXABLE
+163,91,91,"Mixed Use exempt/residential, primarily exempt"
+189,91,91,Mixed use -charitable and two family
+244,91,91,EXEMPT/RES
+284,91,300,COMM BLOCK
+285,91,91,"Mixed exempt, residential"
+288,91,91,Exempt/Residential
+308,91,340,Office Building
+244,913,913,Dept. of Public Health (DPH) - Soldiers' Homes
+46,93,340,Office-General
+71,93,305,Hospital
+163,93,93,"Mixed Use exempt/commercial, primarily exempt"
+177,93,93,"Mixed Use (Primarily Government, some Commercial)"
+231,93,93,Mixed uses 960 and 352
+284,93,325,STORE
+308,93,93,EXM-COMM - HOSPITAL
+37,94,94,Cell tower on municipal land
+158,94,9,Unknown
+163,94,94,"Mixed Use exempt/industrial, primarily exempt"
+244,94,924,Mass Highway Dept
+305,94,94,EX/COMM/IND
+73,956,95,MIXED USE EXEMPT
+122,960,960,mixed use church
+170,1011,101,Single Family No Land
+298,1011,101,Single family
+342,1011,101,Single Family Residential
+107,1012,101,Single Family Ocean
+243,1012,101,OCN FT
+252,1012,101,Single Family Ocean front
+67,1013,101,SFR WATER  MDL-01
+73,1013,101,SFR WATER
+107,1013,101,Single Family Waterfront
+170,1013,101,Single Family Water
+298,1013,101,SFR water
+342,1013,101,Single Family Residential
+49,1014,101,Single Family with Auxilliary Apartment
+243,1015,101,SINGLE FAM IN LAW
+335,101V,131,Single Family Residential VACANT
+2,1021,102,Condo NL MDL-0
+57,1021,102,Condo NL  MDL-05
+67,1021,102,Condo NL  MDL-05
+73,1021,102,Condo NL MDL-05
+119,1021,102,Condo NL MDL-0
+141,1021,102,"Condominium, table 1"
+170,1021,102,Condominium
+187,1021,102,Unknown
+208,1021,102,Condo NL
+220,1021,102,Condominium
+243,1021,102,Condo NL  MDL-05
+252,1021,102,Condominium
+342,1021,102,Condo
+170,1023,102,Condo Vac
+252,1023,102,Condo vacant land
+342,1023,102,Condo
+67,1027,996,COMMON LN
+342,1029,102,Condo
+67,102U,102,AFFORDABLE  MDL-05
+2,102V,102,Condo NL MDL-0
+57,102V,102,Condo NL  MDL-00
+141,102V,102,"Residential Condominium, table V"
+274,102V,102,CONDO MDL-00
+170,1032,103,MHP Land
+170,1034,103,Mobile Hm w/C
+170,1035,103,MHP/ House
+73,1043,104,TWO FAMILY WTR
+243,1045,104,TWO FAM IN LAW
+187,104R,104,Unknown
+73,1053,105,THREE FAM WTR
+49,1061,106,Residential Land-IMP PT DEV
+49,1062,106,Residential Land-IMP PT UNDEV
+73,1063,106,AC IMP WTR
+49,1067,106,Residential-COV-PKG
+155,106I,106,AC LND IMP MDL-96
+73,106V,106,Ac Imp MDL-00
+155,106V,106,AC LND IMP MDL-00
+139,107,104,Single Family with Accessory Apartment
+163,107,302,Bed and breakfast (3 rooms or less)
+258,107,302,Inn Res 3 Rm
+269,107,106,Garage
+49,1091,109,"Multiuse, Residential, 1 Family"
+122,1091,109,residential multi houses
+49,1094,109,"Multiuse, Residential, 2 Family"
+49,1095,109,"Multiuse, Residential, 3 Family"
+49,1098,109,"Multiuse, Residential, 4-8 Apartment"
+307,109V,109,Multi Hses  M-0
+71,110,1,Other
+165,110,103,Trailer Park
+165,110,103,Trailer Park
+171,110,103,"Old trailer park code, should now be 103"
+285,110,111,Apartment
+73,1111,111,Apt 6-8
+187,1111,1,Unknown
+298,1112,111,Apt-co-op
+2,111C,111,APT 4-UNT MDL
+57,111C,111,APT 4-UNT  MDL-94
+67,111C,111,"APT 4-UNT  MDL-94"
+67,111C,111,"APT 4-UNT  MDL-94"
+99,111C,1,Unknown
+141,111C,111,"Apartments, 4 to 8 units, table C"
+220,111C,111,"Apartment,Modern"
+243,111C,111,APT 4-8 MDL 94
+307,111C,111,Apts 4-8  M-94
+274,111V,111,APT 4-8 MDL-00
+2,112C,112,APT OVER 8 MDL
+57,112C,112,APT OVER 8  MDL-94
+73,112C,112,Apt Ovr 8 MDL-94
+99,112C,112,Unknown
+274,112C,112,APT OVER 8 MDL-94
+307,112C,112,Apts Over 8 M-9
+155,112I,112,APT OVER 8 MDL-96
+220,112R,112,"Apartment, Old Style"
+274,112V,112,APT OVER 8 MDL-00
+49,113,1,Unknown
+100,113,112,Apartment with over 100 units
+170,1212,121,Boarding House C
+73,1251,304,ASSIST LIV RES
+170,1252,125,Other Residential C
+335,1252,125,"Other Congregate Housing (includes non-transient shared living arrangements) (Same as 125, 2 is specific to Town use only)"
+67,125C,125,OTHR LIV F  MDL-94
+307,125C,125,OTHR LIV F M-94
+49,13,13,"Mixed Use (Primarily Residential, some Commercial)"
+139,13,13,"Mixed Use (Primarily Residential, some Commercial)"
+67,1301,130,RES ACLNPO
+73,1303,130,DEV LAND WTR
+67,130V,130,RES ACLNDV  MDL-00
+335,130V,130,Developable Residential Land VACANT
+67,1313,131,RES PO RVR
+73,1313,131,P DEV LAND WTR
+335,131V,131,Potentially Developable Residential Land VACANT
+2,1321,132,RES ACLNNV
+49,1322,132,RES-UDV-PARK LND
+67,1322,132,RES UD WET
+73,1323,132,UNDEV LAND WATER
+67,1325,132,RES CR
+67,1327,132,RES COMMON
+335,132V,132,Undevelopable Residential Land VACANT
+49,133,13,Multiuse Residential-COM
+37,137,137,"Mixed use, Residential/Commercial/Chapter 61A"
+144,137,137,MIXED USE & CH. 61A
+144,138,138,MIXED USE & CH. 61B
+139,14,14,"Mixed Use (Primarily Residential, some Industrial)"
+73,140C,140,CHILD CARE C
+99,140C,1,Unknown
+141,140C,140,"Child Care Facility, table C"
+307,140C,140,Child Care M-94
+155,140I,140,DAY CARE MDL-96
+335,140R,140,Child Care Facility Res
+46,142,140,Day Care
+26,150,336,garage
+139,16,16,"Mixed Use (Primarily Residential, some Forest)"
+139,17,17,"Mixed Use (Primarily Residential, some Agriculture)"
+46,172,102,Condominium
+139,18,18,"Mixed Use (Primarily Residential, some Recreation)"
+49,198,106,"Condominium, Residential Parking"
+25,303,325,Commercial Misc
+101,303,316,Commercial Accessory Land
+171,303,3,Unknown
+198,303,102,Condo Other
+2,3030,304,ASSTD LVNG
+243,303A,106,ACC COM LND
+335,3041,304,"Nursing Homes - includes property designed for minimal care with or without medical facilities (Same as 304, 1 is specific to Town use only)"
+139,31,31,"Mixed Use (Primarily Commercial, some Residential)"
+170,3101,310,Oil Products Retail V
+57,310I,310,RTL OIL ST  MDL-96
+57,310S,310,RTL OIL ST  MDL-95
+57,310V,310,RTL OIL ST  MDL-00
+67,310V,310,RTL OIL ST  MDL-00
+155,310V,310,RTL OIL ST MDL-00
+99,314C,314,Unknown
+57,314I,314,TRK TERM  MDL-96
+57,316I,316,COMM WHSE  MDL-96
+73,316I,316,WHSE STRG MDL-96
+122,316I,316,commercial warehouse model 96
+57,316V,316,COMM WHSE  MDL-00
+93,319,316,Condominium-Warehouse
+100,319,316,Warehouse Condominium
+168,319,316,Condo Warehouse
+220,3190,400,Condo Industrial
+101,320,327,Retail Condominiums
+57,321I,321,HRDWARE ST  MDL-96
+2,321V,321,HRDWARE ST MDL
+2,3221,327,RTL CONDO MDL
+57,3221,327,RTL CONDO
+67,3221,327,RTL CONDO  MDL-06
+73,3221,327,RTL CONDO MDL-06
+107,3221,327,Retail Condo
+122,3221,327,"retail condo model 6"
+141,3221,322,"Department Store, table  1"
+170,3221,327,Retail Condo
+187,3221,3,Unknown
+219,3221,322,COMMERC.
+243,3221,327,RTL CONDO
+252,3221,327,Commercial Condo
+295,3221,3,Other
+298,3221,322,Store/Shop MDL 06
+307,3221,327,RTL CONDO M-06
+57,3222,322,COMM BLDG  MDL-94
+73,3222,322,COMM BLDG MDL-94
+107,3222,322,Commercial Building
+141,3222,322,"Department Store, table  2"
+170,3222,322,Comm Bldg
+208,3222,322,Comm Bldg
+220,3222,322,Commercial
+243,3222,322,COMM BLDG
+252,3222,322,Commercial Building
+274,3222,322,COMM BLDG
+298,3222,322,Comm bldg
+342,3222,322,Service Shop
+342,3224,327,Retail Condo
+252,3225,327,Inn/Condo
+57,322I,322,STORE/SHOP  MDL-96
+122,322I,322,store/shop model 96
+155,322I,322,STORE/SHOP MDL-96
+187,322I,3,Unknown
+274,322I,322,STORE/SHOP MDL-96
+307,322I,322,STORE/SHOP M-96
+333,322I,322,STORE/SHOP MDL-96
+57,322L,322,COMM BLDG  MDL-96
+57,322V,322,STORE/SHOP  MDL-00
+274,322V,322,STORE/SHOP MDL-00
+307,323I,323,MALL  M-96
+57,325I,325,CONV FOOD  MDL-96
+99,325I,3,Unknown
+57,325V,325,CONV FOOD  MDL-00
+57,326I,326,REST/CLUBS  MDL-96
+155,326I,326,REST/CLUBS MDL-96
+307,326I,326,REST/CLUBS M-96
+40,327,3,Unknown
+49,327,327,Retail Condominium
+65,327,3,Unknown
+71,327,327,Condo-Retail
+93,327,327,Condominium-Retail
+100,327,327,Retail Condominium
+144,327,327,RTL CND
+163,327,327,Retail Condo
+164,327,3,Unknown
+165,327,327,Retail Condo
+168,327,327,Condo Retail
+171,327,327,Retail condos
+189,327,327,Retail condominium
+246,327,327,COM RETAIL CNDO
+248,327,327,Retail Condo
+258,327,327,Condo Retail
+284,327,327,CONDO
+305,327,327,CONDO RTL
+308,327,327,Commercial Condominium
+220,3270,327,Condo Retail
+274,3270,327,RETAIL CND MDL-06
+100,328,327,Retail Condominium
+168,328,327,Condo-Rest
+258,328,327,Condo/Restau
+155,3280,327,RETAIL CON MDL-06
+46,329,327,RTL-CONDO
+49,329,106,Billboard
+131,329,3,Unknown
+158,329,3,Unknown
+336,3290,327,COMM CONDO
+141,3301,330,"Auto Sales, table 1"
+141,330I,330,"Automotive Vehicles Sales and Service, Table I"
+155,330I,330,AUTO V S&S MDL-96
+2,330V,330,AUTO V S&S MDL
+274,330V,330,AUTO V S&S MDL-00
+252,3326,332,Auto Repair
+2,332I,332,AUTO REPR MDL
+57,332I,332,AUTO REPR  MDL-96
+187,332I,3,Unknown
+274,332I,332,AUTO REPR MDL-96
+57,332S,332,AUTO REPR  MDL-95
+220,3331,333,Outbuildings
+73,333V,333,FUEL SV/PR MDL-00
+342,3345,334,Gasoline service Stations
+57,334I,334,GAS ST SRV  MDL-96
+307,334I,334,GAS ST SRV M-96
+57,334S,334,GAS ST SRV  MDL-95
+220,334V,334,Outbuildings
+307,334V,334,GAS ST SRV M-00
+57,337I,337,PARK LOT  MDL-96
+99,337V,337,Unknown
+307,338I,338,OTH MTR SS M-96
+46,339,3,Unknown
+49,339,106,"Condominium, Parking Space"
+243,3390,334,GAS MART
+139,34,34,"Mixed Use (Primarily Commercial, some Industrial)"
+2,3401,340,OFF CONDO MDL
+57,3401,340,OFF CONDO  MDL-06
+67,3401,340,OFF CONDO  MDL-06
+73,3401,340,OFF CONDO MDL-06
+99,3401,3,Unknown
+107,3401,340,Office Condo
+119,3401,340,Off Condo MDL
+122,3401,340,office condo model 06
+141,3401,340,"General Office, table 1"
+155,3401,340,OFF CONDO MDL-06
+170,3401,340,Office Condo
+187,3401,3,Unknown
+219,3401,340,COMMERC.
+243,3401,340,OFF CONDO  MDL-06
+274,3401,340,OFF CONDO MDL-06
+298,3401,340,Office condo
+307,3401,340,OFF CONDO M-06
+333,3401,340,OFF CONDO MDL-06
+342,3401,340,Office Condo
+243,3402,340,OFFICEBLDG
+67,3407,327,COM COMMON
+342,3407,340,General Office building
+2,340C,343,OFF CONDO MDL
+2,340I,340,OFF BLD MDL
+57,340I,340,OFFICE BLD  MDL-96
+122,340I,340,office condo model 96
+155,340I,340,OFFICE BLD MDL-96
+274,340I,340,OFFICE BLD MDL-96
+307,340I,340,OFFICE BLD M-96
+57,340L,340,OFF CONDO  MDL-96
+57,340V,340,OFFICE BLD  MDL-00
+335,340V,340,General Office Buildings VACANT
+2,3421,342,PROF CONDO MDL
+67,3421,342,PROF CONDO  MDL-06
+73,3421,342,PROF CONDO MDL-06
+119,3421,342,Prof Condo MDL
+170,3421,342,Medical Office Condo
+295,3421,3,Other
+320,3421,327,Commercial Condominium
+342,3429,342,Medical Office Building
+67,342O,342,PROF BLDG  MDL-06
+2,343,3,Unknown
+10,343,343,Condo Office
+14,343,340,General Office
+23,343,327,Commercial Condos
+25,343,327,Commercial Office Condo
+26,343,327,commercial condo office
+30,343,327,Commericial Condominium
+40,343,3,Unknown
+48,343,343,Office Condominium
+49,343,343,Office Condominium
+65,343,3,Unknown
+71,343,343,Condo-Office
+82,343,327,Commercial Condo
+93,343,343,Condominium-Office
+100,343,342,Medical Condominium
+101,343,343,Office Condominiums
+131,343,3,Unknown
+136,343,3,Other
+142,343,3,Unknown
+144,343,343,OFC CND
+163,343,343,Office Condo
+164,343,3,Unknown
+165,343,343,Office Condo
+166,343,343,Office/Retail condo
+168,343,343,Condo-Off
+171,343,343,Office condos
+174,343,327,Commercial Condominiums
+175,343,3,Unknown
+178,343,328,Commercial Condominium including Medical Condominium
+184,343,327,Commercial condo
+185,343,343,Office Condo
+189,343,343,Office condominium
+213,343,3,Unknown
+229,343,328,Commercial condo - Medical
+244,343,342,Medical Office Buildings
+246,343,328,COM MED CONDO
+248,343,343,Office Condo
+258,343,343,Cndo Ofc
+262,343,3,Unknown
+264,343,3,Unknown
+277,343,327,Commercial Condo
+284,343,343,CONDO-OFC
+285,343,34,"Commercial, Industrial"
+288,343,327,Commercial Condo
+291,343,327,Condo-Retail
+295,343,343,Condo Office
+308,343,327,Commercial Condominium
+314,343,343,Office/Condominium
+317,343,3,Other
+344,343,316,Condo Office/Warehouse
+50,3430,343,CONDO-OFC
+220,3430,343,Condo Office
+243,3430,342,PROF OFFC
+251,3430,340,Office
+274,3430,343,OFF CONDO MDL-06
+30,344,409,Industrial Condominium
+51,344,343,Office condo
+71,344,343,Condo-Office
+78,344,327,Commercial condo
+100,344,342,Medical Condominium
+144,344,327,CONDO-C
+158,344,3,Unknown
+168,344,342,Condo-Medic
+178,344,327,Commercial Retail Condominium
+229,344,327,Commercial condo - Office
+246,344,327,COM CONDO OFFICE
+248,344,237,Condo Commercial
+258,344,342,Cndo Med
+284,344,316,CONDO-WHSE
+285,344,339,"Commercial, Industrial"
+291,344,343,Condo-Office
+305,344,343,CONDO OFC
+314,344,327,Retail Condominium
+317,344,3,Other
+220,3440,342,Condo Medical
+251,3440,340,Office
+10,345,327,Condo Retail
+26,345,327,commercial condo retail
+46,345,343,OFC-CONDO
+49,345,343,Mixed Use - Retail Office
+229,345,327,Commercial condo - Retail
+295,345,327,Condo Retail
+155,3450,404,OFFICE LAB MDL-94
+220,3450,340,Class A Office
+155,345I,404,OFFICE LAB MDL-96
+49,346,34,Mixed Use - Inv Office
+139,347,237,"Mixed Use - Agricultural/Horticultural, Nurseries, Wet land, scrub land, rock land (Ch. 61A, not classified as Open Space)"
+308,349,342,Medical Office Condominium
+57,353V,353,PRIV CLUB  MDL-00
+220,3541,972,Airport Hangar
+320,3541,972,Airport Property
+57,355V,355,FUNERAL HM  MDL-00
+336,3570,327,RETAIL CONDO
+336,3580,343,OFFICE CONDO
+139,36,36,"Mixed Use (Primarily Commercial, some Forest)"
+139,37,37,"Mixed Use (Primarily Commercial, some Agriculture)"
+307,371I,371,ICE SKATE M-96
+139,38,38,"Mixed Use (Primarily Commercial, some Recreation)"
+170,3801,380,Golf Course C
+274,3841,384,YACHT CLUB
+57,384V,384,MARINAS  MDL-00
+170,3852,385,Fish & Game C
+170,3852,385,Fish & Game C
+99,385V,3,Unknown
+99,386R,3,Unknown
+99,386V,3,Unknown
+307,388I,388,OTHR OUTDR M-96
+99,390R,3,Unknown
+2,3921,392,UNDVCNDLND
+49,3922,392,CRMCL REC LND
+274,400C,400,FACTORY MDL-94
+307,400C,400,FACTORY M-L94
+57,400V,400,FACTORY  MDL-00
+57,401C,401,IND WHSES  MDL-94
+67,401C,401,IND WHSES  MDL-94
+274,401V,401,IND WHSES MDL-00
+2,4021,409,IND CONDO MDL
+73,4021,409,IND CONDO MDL-06
+99,4021,4,Unknown
+107,4021,409,Office Condo - Industrial
+122,4021,409,industrial condo model 6
+141,4021,402,"Office manufacturing, table 1"
+170,4021,409,Industrial Condo
+219,4021,402,INDUSTR.
+243,4021,409,IND CONDO  MDL-06
+252,4021,409,Industrial Condo
+295,4021,4,Other
+298,4021,409,IND condo
+307,4021,409,IND CONDO M-06
+342,4021,409,Industrial Condo
+2,4022,402,IND BLDG
+67,4022,402,IND BLDG
+73,4022,402,IND BLDG
+107,4022,402,Industrial Building
+141,4022,402,"Office manufacturing, table 2"
+170,4022,402,Industrial Building
+243,4022,402,IND BLDG
+295,4022,4,Other
+298,4022,402,IND bldg
+342,4022,402,Service Shop
+342,4027,402,Office Building - part of manufacturing operation
+274,402C,402,IND OFFICE MDL-94
+2,402I,409,IND CONDO MDL
+57,402I,409,IND CONDO  MDL-96
+2,404C,404,R-D FACIL MDL
+101,405,409,Industrial Condominiums
+131,405,4,Unknown
+136,405,4,Other
+144,405,409,IND CND
+184,405,409,Industrial condo
+213,405,4,Unknown
+229,405,409,Industrial condo
+220,4050,409,Condo Industrial
+274,4050,409,IND CONDO MDL-06
+49,406,404,High-Tech
+155,4060,404,LAB OFFICE
+49,407,404,Clean-Manufacturing
+49,409,4,Unknown
+342,4104,402,Office Building
+342,4106,401,Warehouse
+307,410C,410,SAND&GRAVL M-94
+73,410V,410,SAND & GRAVEL MDL-00
+307,410V,410,SAND&GRAVL M-00
+170,4241,424,Electric Substation V
+57,424V,424,ELECSUBSTA  MDL-00
+155,424V,424,ELECSUBSTA MDL-00
+243,424V,424,ELECSUBSTA  MDL-00
+307,424V,424,ELECSUBSTA M-00
+139,43,43,"Mixed Use (Primarily Industrial, some Commercial)"
+307,430V,430,TEL X STA M-00
+99,431V,4,Unknown
+141,431V,431,"Telephone tower, table 1"
+30,434,431,Cell Site
+163,434,431,Cell Tower
+248,434,431,Telecommunications Tower
+314,434,4,Unknown
+163,435,433,Submarine Cable Terminus
+163,436,433,Internet Service Provider
+99,440V,4,Unknown
+10,444,401,Condo Warehouse
+30,444,409,Industrial Condominium
+37,444,402,Office condominium
+71,444,409,Condo-Industrial
+93,444,409,Condominium-Industrial
+139,444,402,Office Condo
+144,444,409,CONDO-I
+168,444,409,Condo Ind
+171,444,409,Industrial condos
+178,444,409,Industrial Condominium
+258,444,409,Condo-Ind
+285,444,409,Industrial
+295,444,401,Condo Warehouse
+305,444,409,IND CONDO
+174,445,409,Industrial Condominiums
+176,445,4,Other Industrial
+308,445,409,Industrial Condominium
+344,445,4,Other Industrial
+336,4490,409,IND CONDO
+139,46,46,"Mixed Use (Primarily Industrial, some Forest)"
+139,47,47,"Mixed Use (Primarily Industrial, some Agriculture)"
+139,48,48,"Mixed Use (Primarily Industrial, some Recreation)"
+99,601V,6,Unknown
+73,6100,601,FOREST C61
+119,6100,601,Forest C61
+23,7,7,Mixed Use
+67,712V,712,TR CRP VEG  MDL-00
+67,713V,713,FIELD CRPS  MDL-00
+170,7161,716,Tillable R
+67,718V,718,PASTURE  MDL-00
+25,722,720,Non-productive Woodland (Chapter Land)
+34,722,7,Unknown
+82,722,720,Wasteland
+82,722,720,Wasteland
+100,722,720,Wasteland
+158,722,720,Unknown
+184,722,720,Non-productive farmland
+269,722,72,Mixed use Chapter 61A Agricultural/Horticultural
+2,7220,720,NONPRWETLD
+219,7220,601,61A
+298,7220,720,Non productive wetland
+219,8000,8,RECRTION
+298,8000,8,Recreation
+307,8000,8,RECREATION
+335,805R,805,"Golfing - areas of land arranged as a golf course (Ch. 61B, not classified as Open Space) RES"
+99,805V,8,Unknown
+155,805V,805,61B GOLF MDL-00
+67,810V,810,61B HIKE  MDL-00
+99,811V,8,Unknown
+307,814C,814,61B TARGET  M-9
+23,861,68,Mixed Use (Chapter 61 and 61b land)
+49,9001,900,US Government
+49,9003,900,US Government
+119,9005,900,US Govt Land
+252,9006,900,U S Govt
+73,900C,900,US GOV -COMM
+307,900C,900,US Gov  MDL-94
+67,900R,900,US GOVT  MDL-01
+141,900R,900,"US Government, table R"
+155,900R,900,US GOVT MDL-01
+243,900R,900,US GOVT
+335,900R,900,United States Government RES
+67,900V,900,US GOVT  MDL-00
+187,900V,900,Unknown
+243,900V,900,US GOVT MDL-00
+307,900V,900,US Gov M-00
+170,9011,919,Comm Mass V
+170,9013,919,Comm Mass I
+67,901R,919,COMM-MASS  MDL-01
+67,901S,919,COMM-MASS  MDL-95
+67,901V,919,COMM-MASS  MDL-00
+170,901V,919,Comm. Mass  MDL-00
+73,902V,938,COUNTY MDL-00
+2,9031,935,POLICE MDL-96
+170,9031,935,Municipal Police
+208,9031,935,Police
+2,9032,935,FIRE MDL-96
+67,9032,935,FIRE
+170,9032,935,Municipal Fire
+219,9032,9,EXEMPT
+252,9032,935,Fire Station
+333,9032,935,FIRE
+2,9033,934,PUB-SCHOOL MDL
+67,9033,934,PUB-SCHOOL  MDL-94
+170,9033,934,Municipal School
+208,9033,934,Pub-School
+219,9033,9,EXEMPT
+252,9033,934,Public School
+342,9033,934,School
+219,9034,9,EXEMPT
+252,9034,931,Municipal Commercial
+2,9035,931,TOWN-PROP MDL
+155,9035,931,TOWN-PROP MDL-96
+170,9035,931,Municipal
+208,9035,931,Town-Prop
+219,9035,9,EXEMPT
+220,9035,930,Vacant Land
+252,9035,930,Municipal Vacant
+295,9035,9,Other
+298,9035,931,Town Property
+333,9035,931,"TOWN- PROPMDL-00"
+170,9036,903,Exempt Condo
+219,9036,903,EXEMPT
+220,9036,903,Conventional
+252,9036,904,Municipal Industrial
+295,9036,9,Other
+170,9037,903,Municipal R
+219,9037,9,EXEMPT
+252,9037,904,Municipal T
+170,9038,902,Municipal C
+252,9038,903,Municipal Residential
+170,9039,904,Municipal I
+342,9039,900,United States Government
+67,903A,933,PUB-SCHOOL  MDL-00
+155,903A,932,TOWN-PROP MDL-00
+67,903C,902,MUNICPAL  MDL-94
+73,903I,904,MUNICPAL MDL-96
+155,903I,904,MUNICPAL MDL-96
+2,903R,903,MUNICPAL MDL-0
+67,903R,903,MUNICPAL  MDL-01
+155,903R,903,MUNICPAL MDL-01
+155,903U,903,MUNICPAL MDL-05
+2,903V,930,MUNICPAL MDL-0
+67,903V,930,MUNICPAL  MDL-00
+155,903V,930,MUNICPAL MDL-00
+243,903V,930,MUNICIPAL MDL-00
+333,903V,930,"MUNISIPAL MDL - 00"
+170,9041,943,Priv School R
+170,9042,943,Private School C
+67,904C,943,PRI SCHOOL  MDL-94
+67,904I,943,PRI SCHOOL  MDL-96
+73,904I,943,PRI SCHOOL MDL-96
+155,904I,943,PRI SCHOOL MDL-96
+155,904R,943,PRI SCHOOL MDL-01
+333,904R,943,"PRI SCHOOL MDL-01"
+67,904U,943,PRI SCHOOL  MDL-05
+67,904V,943,PRI SCHOOL  MDL-00
+155,904V,943,PRI SCHOOL MDL-00
+333,904V,943,"PRE-SCHOOL - 01"
+170,9051,957,Charitable Org R
+252,9051,957,Charitable Org
+342,9051,900,United States Government
+170,9052,957,Charitable Org C
+252,9052,957,Charitable Org
+170,9054,957,Charitable Org V
+57,905C,955,P/HOS CHAR  MDL-94
+67,905C,955,P/HOS CHAR  MDL-94
+73,905C,955,P/HOS CHAR MDL-94
+99,905C,9,Unknown
+298,905C,905,"(formerly Charitable Organizations (private hospitals, etc...).  Removed June 2009. )"
+2,905O,957,CHARIT MDL-06
+67,905O,955,P/HOS CHAR  MDL-06
+2,905R,957,CHARIT MDL-01
+57,905R,955,P/HOS CHAR  MDL-01
+155,905R,955,P/HOS CHAR MDL-01
+187,905R,9,Unknown
+333,905R,955,"P/HOS CHAR - MDL-01"
+2,905V,957,CHARIT-MDL-00
+67,905V,955,P/HOS CHAR  MDL-00
+73,905V,955,P/HOS CHAR MDL-00
+155,905V,955,P/HOS CHAR MDL-00
+333,905V,955,P/HOS CHAR - MDL-00
+252,9061,960,Church Residential
+342,9061,900,United States Government
+170,9062,960,Church C
+252,9064,960,Church Commercial
+170,9065,960,Church R
+57,906C,960,CHURCH ETC  MDL-94
+155,906C,960,CHURCH ETC MDL-94
+2,906I,960,CHURCH ETC MDL
+57,906I,960,CHURCH ETC  MDL-96
+67,906I,960,CHURCH ETC  MDL-96
+155,906I,960,CHURCH ETC MDL-96
+187,906I,9,Unknown
+307,906I,962,Religious M-96
+155,906O,960,CHURCH ETC MDL-06
+73,906R,960,CHURCH ETC MDL-01
+187,906R,9,Unknown
+2,906V,960,CHURCH ETC MDL
+67,906V,960,CHURCH ETC  MDL-00
+155,906V,960,CHURCH ETC MDL-00
+252,9084,970,Housing Authority
+67,908C,970,HSNG AUTH  MDL-94
+119,908R,970,Hsng Auth MDL
+2,908U,970,HSNG AUTH MDL
+67,908U,970,HSNG AUTH  MDL-05
+155,908U,970,HSNG AUTH MDL-05
+67,908V,970,HSNG AUTH  MDL-00
+155,908V,970,HSNG AUTH MDL-00
+101,909,972,Railroad ROW - Titled Ownership
+144,909,9,EXEMPT
+165,909,9,Unknown
+229,909,930,Municipal-owned vacant
+285,909,9,"Exempt, Multiple Use"
+308,909,9,Veterans Organizations
+2,9090,962,RELIGIOUS MDL
+155,9090,962,RELIGIOUS
+49,9101,9,Unknown
+208,9101,910,Dem-Bris
+252,9101,910,DENV MNG R
+252,9106,910,DENV MNG I
+243,910C,910,CHARITABLE  MDL-94
+67,910R,910,DEM REIMB  MDL-01
+99,910R,9,Unknown
+99,910V,9,Unknown
+243,910V,910,COMM MASS DEM
+307,912I,912,DOC/DYS M-96
+67,912R,912,CORR REIMB  MDL-01
+307,912V,912,DOC/DYS M-00
+57,913C,913,SOLD HOME  MDL-94
+57,913I,913,SOLD HOME  MDL-96
+99,914V,9,Unknown
+99,919V,9,Unknown
+252,9201,920,DEM/NR I
+155,920C,920,NON PROFIT MDL-94
+243,920C,920,NON PROFIT  MDL-94
+155,920R,920,NON PROFIT MDL-01
+155,920V,920,NON-PROFIT UNIMPROVED (VACANT)
+243,920V,920,NON PROFIT  MDL-00
+274,920V,920,COMM OF MASS VACANT LAND
+141,9221,922,"Comm of Massachusetts, table 1"
+243,922C,922,MASS. MILITARY
+99,922I,9,Unknown
+141,922I,922,"Dept. of Corrections (DOC) - Division of Youth Services,Mass. Military,State Police,Sheriffs' Depts. (non-reimbursable), table I"
+243,922I,922,MASS MILITARY
+243,922V,922,MASS MILITARY
+122,924I,924,commonwealth mass  model 96
+307,924I,924,MHD M-96
+73,924V,924,MASS HWY MDL-00
+243,924V,924,NON PROFIT
+307,924V,924,MHD M-00
+243,925C,925,COMM MASS MDC
+57,925I,925,MDC  MDL-96
+243,925I,925,COMM MASS MDC
+73,925V,925,CON & REC MDL-00
+243,925V,925,COMM MASS MDC
+57,926C,926,MA-JUDIC  MDL-94
+57,928V,928,DCAM - VAC
+243,928V,928,COMM MASS CAP PLAN
+252,9296,929,OTHER/NR I
+57,929C,929,MA-OTHER  MDL-94
+57,929I,929,MA-OTHER  MDL-96
+170,9301,950,Charitablr Org V
+252,9301,959,Non Profit Residential
+170,9302,951,Charitable Org C
+252,9304,951,Non Profit Commercial
+220,9306,951,Conventional
+252,9306,951,Non Profit Industrial
+220,9307,931,Function Hall
+220,9308,931,Other Municipal
+243,930C,972,COMM MASS MBTA
+99,930V,9,Unknown
+119,930V,930,Town-Prop - LAN
+187,930V,9,Unknown
+243,930V,930,MUNICIPAL MDL00
+307,930V,930,Selectmen Vac M
+73,930W,932,MUN VACANT WATER
+49,9311,931,Improved City
+57,9311,931,TOWN SELECTMEN C
+342,9311,931,"Improved, Selectmen or City Council"
+99,931C,9,Unknown
+122,931C,931,improved selectman commercial
+243,931C,931,IMPROV LAND CITY
+307,931C,931,Selectman M-94
+99,931I,9,Unknown
+122,931I,931,improved selectman industrial
+243,931I,931,IMPROV MDL 96
+307,931I,931,Selectmen M-96
+73,931R,931,MUN IMPRVD RES
+99,931R,9,Unknown
+122,931R,931,improved selectman resid
+243,931R,931,MUNIC IMPRO MDL 01
+307,931R,931,Selectmen M-01
+99,931V,9,Unknown
+243,931V,931,MUNICIPAL
+99,932V,9,Unknown
+187,932V,9,Unknown
+307,932V,932,Conservation Va
+243,933V,933,VAC EDUCATION
+307,933V,933,Town Ed Vac M-0
+342,9341,934,"Improved, Education"
+99,934C,9,Unknown
+122,934C,934,improved education
+243,934C,934,IMPR EDUCATION
+307,934C,934,Twn Ed M-94
+122,934I,934,improved education
+243,934I,934,IMP EDUCATION
+307,934I,934,Twn Ed M-96
+119,934V,934,VAC Educational
+243,934V,934,VAC EDU
+57,9351,935,TOWN PUBLIC SAFETY C
+342,9351,935,"Improved, Municipal Public Safety"
+122,935C,935,improved public safety
+122,935I,935,improved public safety
+243,935I,935,IMP PUBLIC SAFETY
+243,936V,936,TAX TITLE VAC
+73,937R,937,MUN IMPR TT RES
+243,939C,939,IMPRO CNTY
+139,94,940,Elementary Level (Educational Private)
+57,9401,940,PRIV ELEMENTARY C
+220,9401,9,Raised Ranch
+170,9402,951,Non Profit C
+220,9402,946,Vacant Land
+49,9403,940,Private Elementary Education
+220,9403,343,Condo Office
+243,940C,940,PRIV ELEM
+57,9411,941,PRIV SECONDARY C
+243,941C,941,PRIV SEC LVL
+119,941R,941,PRI School MDL
+49,9421,942,"Private College, University"
+243,942C,942,PRIV COLL
+73,942R,942,PRVT COLLEGE
+243,942R,942,PRIV COLL
+243,942V,942,VAC PRIV COL
+274,942V,942,COLL UNIV VACANT
+57,9431,943,PRIV OTHER RDU C
+99,943C,9,Unknown
+307,943I,943,Priv Other Edu
+73,945C,945,PRIV AFF HSING COMM
+307,946V,946,Priv Edu M-00
+187,950V,9,Unknown
+307,950V,950,Consrv Org M-00
+342,9511,9,Other
+307,951C,951,Char Other M-94
+307,951R,951,Char Other M-01
+307,951V,951,Char Other M-00
+243,953C,953,CEMETERY IMP
+99,953I,9,Unknown
+99,953V,9,Unknown
+187,953V,9,Unknown
+243,953V,953,CEMETERY
+307,953V,953,Cemeteries M-00
+57,9541,954,FUNC/FRAT ORG C
+220,9541,343,Condo Office
+342,9541,954,Clubs/Lodges
+99,954C,9,Unknown
+122,954C,954,"charitable function"
+243,954C,954,FRAT/FUNC
+307,954C,954,Func/Frat Org M
+243,954R,954,COMM CTR
+73,954V,954,CHARITABLE VACANT
+99,954V,954,Unknown
+57,9552,955,HOSPITAL C
+243,955C,955,HOSP
+243,956C,956,LIBRARY MDL 94
+243,956R,956,LIBRARY RES
+243,956V,956,LIBRARY VAC
+49,9571,957,Charitable Svc
+57,9571,957,CHAR SERVICES C
+57,9572,957,CHAR SERVICES V
+57,9573,957,CHAR SERVICES CONDO
+73,957C,957,CHARITABLE CM CONDO
+99,957C,9,Unknown
+122,957C,957,charitable services
+243,957C,957,CHAR SERV COM
+274,957C,957,CHARITABLE CONDO
+243,957I,957,CHAR SERV IN
+99,957R,9,Unknown
+141,957R,957,"Charitable Services, table R"
+243,957R,957,CHAR SERV
+274,957R,957,CHARITABLE RES
+243,957U,957,CHAR SER
+99,957V,9,Unknown
+243,957V,957,CHAR SERV VAC
+342,9581,958,"Recreation, Active Use"
+57,9582,958,CHAR REC ACTIVE C
+99,958C,9,Unknown
+122,958C,958,"recreation commercial"
+122,958I,958,recreation industrial
+122,958R,958,recreation residential
+57,9591,959,CHAR HOUSING R
+220,9591,959,Colonial
+57,9592,959,CHAR HOUSING C
+122,959C,959,charitable housing comm
+243,959C,959,HSING
+99,959R,9,Unknown
+122,959R,959,charitable housing resident
+141,959R,959,"Charitable Housing,  table R"
+243,959R,959,HSING
+274,959R,959,HOUSING OTHER RES
+342,9601,960,Church
+57,9602,960,CHURCH/TEMPLE C
+342,9602,960,Church
+220,9603,959,Colonial
+119,960C,960,"Church, etc. MDL"
+243,960C,960,CHURCH
+274,960C,960,RELIGIOUS CONDO
+307,960C,960,Religious M-94
+99,960I,9,Unknown
+119,960I,960,Church Etc. MDL
+122,960I,960,religious model 96
+307,960I,960,Religious M-96
+119,960R,960,Church Etc. MDL
+187,960V,9,Unknown
+243,960V,960,CHURCH VAC
+274,960V,960,RELIGIOUS VACANT
+307,960V,960,Religious M-00
+49,9611,961,"Rectory, Parsonage"
+57,9611,961,RECTORY/PERSONAGE R
+49,9613,961,"Rectory, Parsonage"
+243,961C,961,RECTORY
+99,961R,9,Unknown
+122,961R,961,religious rectory
+243,961R,961,RECTORY
+307,961R,961,Rectory/Parsona
+73,961W,961,REC/PARSON WATER
+57,9622,962,RELIG OTHER C
+243,962C,962,OTHER RELIG
+99,962R,9,Unknown
+243,962R,962,RELIG RES
+99,962V,9,Unknown
+119,962V,962,Religous MDL-0
+243,962V,962,RELIG VAC
+101,963,963,Religious - Vacant or Accessory Land
+317,963,963,Other
+317,964,963,Other
+49,9701,970,Housing Authority
+57,9701,970,HOUSING AUTHORITY C
+220,9701,970,Two Family
+342,9701,970,Housing Authority
+220,9702,970,Condominium
+49,9703,970,Housing Authority
+73,970C,970,HOUSING AUTH COMM
+99,970C,970,Unknown
+243,970C,970,HSING ATHORITY
+274,970C,970,HOUSING AUTHORITY
+307,970C,970,Housing Auth M-
+99,970R,970,Unknown
+243,970R,970,HSING AUTH
+307,970R,970,Housing Auth M-
+243,970V,970,HSING AUTH MDL 00
+99,971I,971,Unknown
+307,971I,971,Water & Sewer
+99,971V,971,Unknown
+119,971V,971,Town Prop - LAN
+220,9721,972,Commercial
+243,972C,972,TRANS AUTH
+307,972C,972,Trans Auth M-94
+243,972I,972,TRANS AUTH
+243,972V,972,TRANS AUTH
+274,972V,972,MBTA VACANT LAND
+307,973V,973,Housing Authori
+119,974V,974,Municipal MDL-00
+307,974V,974,Utility Authori
+99,975V,974,Unknown
+307,975V,975,Trans Authority
+163,976,970,Neighborhood Development Associates improved (non-profit subsidiary of housing authority)
+163,977,973,Neighborhood Development Associates vacant (non-profit subsidiary of housing authority)
+139,98,980,"Vacant, Selectmen or City Council, Other City or Town (Municipal)"
+99,980V,9,Unknown
+122,980V,980,"vacant other town"
+243,985I,985,OTHER CITY
+99,989I,989,Unknown
+243,990C,990,121A CORP
+243,990V,990,121A CORP
+307,991V,991,County/Regional
+122,992I,992,county improved
+307,992I,992,County/Reg Deed
+307,992R,992,County/Reg Deed
+243,995I,995,OTHER OP SP IND
+307,996V,9,Other non Tax C
+49,9971,9,Other
+101,998,996,"Condominium Common Land - Class 4 Industrial, Exempt"
+57,9980,9,OWNER UNKN
+34,999,9,Unknown
+101,999,996,Condominium Common Land - Class 9 Exempt
+165,999,9,Unknown
