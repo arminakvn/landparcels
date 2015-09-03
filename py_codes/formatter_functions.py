@@ -133,8 +133,6 @@ def calcBldgValPerSqft(bldgval, far, totalareasqft):
 def calcILratio(bldval, otherval,landval):
   if (landval == None) or (landval == -0.9999) or (landval == 0):
     ilratio = -0.9999
-  elif (landval == 0) and ((bldval > 0) or (otherval > 0)):
-    ilratio = -0.9999
   elif (bldval == None) and (otherval > 0):
     ilratio = otherval/landval
   elif (otherval == None) and (bldval > 0):
